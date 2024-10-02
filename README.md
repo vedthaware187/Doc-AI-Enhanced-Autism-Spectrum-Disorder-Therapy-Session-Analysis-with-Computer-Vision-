@@ -19,10 +19,8 @@ Integrated IoT-Based Hardware-Software Codesign: A System Architecture
 Working Cycle for Software Model : Video (input) -> Convert it into single frames -> extract frame -> first Process it with Object detection -> find physical engagement through movements -> find human-object interaction -> generate captions -> Annotate frames -> Generate video with annotations -> generate a detailed report
 
 Computer vision models used :
-
-Computer Vision Models:
-Detection Transformer (DETR)
-Face Emotion Detection (FER)
-DeepFace
-Gaze Transformer
+1. Detection Transformer (DETR)
+2. Face Emotion Detection (FER)
+3. DeepFace
+4. Gaze Transformer
 
